@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yiqing(Yeezie) Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an undergraduate at Center on Machine Learning Research (CMLR), part of the Department of Computer Science at Harbin Institute of Technology (HIT). My supervisor is Prof. Wangmeng Zuo.
+I am a third year undergraduate student at Center on Machine Learning Research (CMLR), part of the Department of Computer Science at Harbin Institute of Technology (HIT). My supervisor is Prof. Wangmeng Zuo.
+
+My research interest includes 3d vision. Now, I am exploring the Embodied AI, expecially the Hand-Object Interaction(HOI).
+
+[Email](mailto:yeezie66[at]gmail[dot]com) / [Github](https://github.com/Yeezie6) / [Wechat](wyq314526)
 
 A data-driven personal website
 ======
