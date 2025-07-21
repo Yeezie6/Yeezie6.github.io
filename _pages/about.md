@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yiqing(Yeezie) Wang"
+title: "Yiqing Wang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,9 @@ I am a third year undergraduate student at Center on Machine Learning Research (
 
 My research interest includes 3d vision. Now, I am exploring the Embodied AI, expecially the Hand-Object Interaction(HOI).
 
-[Email](mailto:yeezie66[at]gmail[dot]com) / [Github](https://github.com/Yeezie6) / [Wechat](wyq314526)
+Email:yeezie66[at]gmail[dot]com)
+Wechat:wyq314526
+[Github](https://github.com/Yeezie6)
 
 A data-driven personal website
 ======
